@@ -1,0 +1,5 @@
+
+h
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(ü¶è¹
+v
+java:S1104"`Make isOlderToZeroOrEqual a static final constant or non-public and provide accessors if needed.(ü¶è¹

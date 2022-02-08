@@ -1,0 +1,10 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«¹¹ 
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®˜‘Ïÿÿÿÿÿ8Šœˆ®í/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÜåÔz8‰†‰®í/
+i
+java:S1192"LDefine a constant instead of duplicating this literal "El numero: " 3 times.(«¹¹ 8—†‰®í/
+w
+java:S1104"UMake variable1 a static final constant or non-public and provide accessors if needed.(¦êàùÿÿÿÿ8¹£Á®í/
+w
+java:S1104"UMake variable2 a static final constant or non-public and provide accessors if needed.(³Ôº’úÿÿÿÿ8º£Á®í/
