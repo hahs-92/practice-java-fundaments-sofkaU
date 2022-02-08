@@ -17,9 +17,3 @@ Y
 0src/com/hahs/sofkau/main/TestExercises5And6.java,3/f/3f5eb882aba245c6e569c85b8da42a53b0cd86d3
 Y
 )src/com/hahs/sofkau/domain/Exercise7.java,a/2/a22cf022a0d9d7ac623c1dc76ee3ebf03f7e7c1d
-[
-+src/com/hahs/sofkau/main/TestExercise7.java,b/8/b8754848fe93fb46b0be3aa0368fc1caa828dde1
-Y
-)src/com/hahs/sofkau/domain/Exercise8.java,d/b/dbc1cc1248ccda847378edb44754c56e7ed017e8
-[
-+src/com/hahs/sofkau/main/TestExercise8.java,b/1/b1f79a325825731f181b2ddd1cdcd09ad107e28c
