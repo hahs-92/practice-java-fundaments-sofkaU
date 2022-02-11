@@ -31,3 +31,7 @@ Z
 *src/com/hahs/sofkau/domain/Exercise14.java,7/8/781241013a1935846970c06bee35553ca14f22ef
 \
 ,src/com/hahs/sofkau/main/TestExercise14.java,1/4/1420d4097394581ad0e865ffd1ec5abc7763715b
+Z
+*src/com/hahs/sofkau/domain/Exercise15.java,3/5/35cf5381044c6006bd3ddc4956f20119c20c55f4
+\
+,src/com/hahs/sofkau/main/TestExercise15.java,9/0/90ea06e365422a69b489237a45790434ad075007

@@ -1,0 +1,6 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûý
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(·óÉ²ýÿÿÿÿ
+}
+java:S1488Q"bImmediately return this expression instead of assigning it to the temporary variable "userOption".(« œåýÿÿÿÿ
