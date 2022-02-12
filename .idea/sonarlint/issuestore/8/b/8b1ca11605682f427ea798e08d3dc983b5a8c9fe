@@ -1,0 +1,13 @@
+
+h	java:S116	"NRename this field "DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èüöšıÿÿÿÿ
+Z
+java:S1134>"DTake the required action to fix the issue indicated by this comment.(ËÈŸˆ
+H
+java:S1135>"2Complete the task associated to this TODO comment.(ËÈŸˆ
+O	java:S106‹"9Replace this use of System.out or System.err by a logger.(§Â‹ƒ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(š‡Ì©
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Šàâúÿÿÿÿ
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(ôĞÎ‹ıÿÿÿÿ
+T	java:S106œ"9Replace this use of System.out or System.err by a logger.(–×²âıÿÿÿÿ
+1
+java:S1643j"Use a StringBuilder instead.(¹„Õ|

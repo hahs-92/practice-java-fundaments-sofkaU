@@ -1,0 +1,29 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(îÖÀãúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ñä×…
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†ê´íÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«±â‹ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(®®Ñ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(îÖÀãúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ñä×…
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†ê´íÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«±â‹ûÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(®®Ñ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(îÖÀãúÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(Ñä×…
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(†ê´íÿÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(«±â‹ûÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(®®Ñ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(À¸¢øúÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(À ¼üÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(œœñ«ûÿÿÿÿ
+o
+java:S1192"TDefine a constant instead of duplicating this literal "Ingrese su nombre: " 3 times.(îÖÀãúÿÿÿÿ
+q
+java:S1192"VDefine a constant instead of duplicating this literal "Ingrese su peso(kg): " 3 times.(«±â‹ûÿÿÿÿ
+r
+java:S1192"\Define a constant instead of duplicating this literal "Ingrese su altura(metros): " 3 times.(®®Ñ
+
+java:S1192"fDefine a constant instead of duplicating this literal "Ingrese su Genero. M:Hombre F:Mujer: " 3 times.(†ê´íÿÿÿÿÿ
+h
+java:S1192"RDefine a constant instead of duplicating this literal "Ingrese su edad: " 3 times.(Ñä×…

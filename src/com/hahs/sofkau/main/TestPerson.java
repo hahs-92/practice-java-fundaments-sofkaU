@@ -15,7 +15,7 @@ public class TestPerson {
         System.out.println("Ingrese su edad: ");
         int age = Integer.parseInt(input.nextLine());
         System.out.println("Ingrese su Genero. M:Hombre F:Mujer: ");
-        char genre = input.nextLine().charAt(0);
+        char gender = input.nextLine().charAt(0);
         System.out.println("Ingrese su peso(kg): ");
         double weight = Double.parseDouble(input.nextLine());
         System.out.println("Ingrese su altura(metros): ");
@@ -26,7 +26,7 @@ public class TestPerson {
         System.out.println("Ingrese su edad: ");
         int age2 = Integer.parseInt(input.nextLine());
         System.out.println("Ingrese su Genero. M:Hombre F:Mujer: ");
-        char genre2 = input.nextLine().charAt(0);
+        char gender2 = input.nextLine().charAt(0);
         System.out.println("Ingrese su peso(kg): ");
         double weight2 = Double.parseDouble(input.nextLine());
         System.out.println("Ingrese su altura(metros): ");
@@ -37,23 +37,23 @@ public class TestPerson {
         System.out.println("Ingrese su edad: ");
         int age3 = Integer.parseInt(input.nextLine());
         System.out.println("Ingrese su Genero. M:Hombre F:Mujer: ");
-        char genre3 = input.nextLine().charAt(0);
+        char gender3 = input.nextLine().charAt(0);
         System.out.println("Ingrese su peso(kg): ");
         double weight3 = Double.parseDouble(input.nextLine());
         System.out.println("Ingrese su altura(metros): ");
         double height3 = Double.parseDouble(input.nextLine());
 
         //instancias
-        Person person1 = new Person(name,age,genre,weight,height);
+        Person person1 = new Person(name,age,gender,weight,height);
 
-        Person person2 = new Person(name2,age2,genre2);
+        Person person2 = new Person(name2,age2,gender2);
         person2.setWeight(weight2);
         person2.setHeight(height2);
 
         Person person3 = new Person();
         person3.setName(name3);
         person3.setAge(age3);
-        person3.setGenre(genre3);
+        person3.setGender(gender3);
         person3.setWeight(weight3);
         person3.setHeight(height3);
 

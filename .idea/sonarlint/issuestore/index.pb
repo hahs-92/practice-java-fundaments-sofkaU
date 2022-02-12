@@ -35,3 +35,15 @@ Z
 *src/com/hahs/sofkau/domain/Exercise15.java,3/5/35cf5381044c6006bd3ddc4956f20119c20c55f4
 \
 ,src/com/hahs/sofkau/main/TestExercise15.java,9/0/90ea06e365422a69b489237a45790434ad075007
+R
+"src/com/hahs/sofkau/domain/Tv.java,0/3/034f1e36a904ffc435ba38dbf6f01c115d070079
+^
+.src/com/hahs/sofkau/domain/WashingMachine.java,e/7/e74bd7a8ddcb52ba3f9384d991c35994e591479d
+_
+/src/com/hahs/sofkau/domain/Electrodomestic.java,c/c/ccc83df3bdb57fc75487397ef5d43d1c90a56f69
+a
+1src/com/hahs/sofkau/main/TestElectrodomestic.java,2/b/2bcb42bcea00ba1f0660130c800b300506333e8c
+X
+(src/com/hahs/sofkau/main/TestPerson.java,b/b/bb31576bba92dc3f5b218c8722d0ee9f693fa8f1
+V
+&src/com/hahs/sofkau/domain/Person.java,8/b/8b1ca11605682f427ea798e08d3dc983b5a8c9fe

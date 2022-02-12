@@ -4,7 +4,6 @@ import com.hahs.sofkau.domain.Electrodomestic;
 import com.hahs.sofkau.domain.Tv;
 import com.hahs.sofkau.domain.WashingMachine;
 
-import java.util.Arrays;
 
 public class TestElectrodomestic {
     public static void main(String[] args) {

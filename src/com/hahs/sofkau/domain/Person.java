@@ -7,7 +7,7 @@ public class Person {
     private String name;
     private int age;
     private String DNI;
-    private Character genre = 'M';
+    private Character gender = 'M';
     private double weight;
     private double height;
 
@@ -20,17 +20,17 @@ public class Person {
         this.generateDNI();
     }
 
-    public Person(String name, int age, Character genre) {
+    public Person(String name, int age, Character gender) {
         this.name = name;
         this.age = age;
         this.generateDNI();
-        this.checkGenre(genre);
+        this.checkGender(gender);
     }
 
     public Person(
             String name,
             int age,
-            Character genre,
+            Character gender,
             double weight,
             double height
     ) {
@@ -39,7 +39,7 @@ public class Person {
         this.weight = weight;
         this.height = height;
         this.generateDNI();
-        this.checkGenre(genre);
+        this.checkGender(gender);
     }
 
 
@@ -83,15 +83,15 @@ public class Person {
     /**
      * Comprueba si el genre de una persona (instancia) contiene los caracteres validos
      * "M" | "F". Por defecto asigna "M" al genre de la persona
-     * @param genre 'M' | 'F'
+     * @param gender 'M' | 'F'
      */
-    public void checkGenre(char genre) {
-        if( genre == 'F') {
-            this.genre = 'F';
-        } else if(genre == 'M') {
-            this.genre = 'M';
+    public void checkGender(char gender) {
+        if( gender == 'F') {
+            this.gender = 'F';
+        } else if(gender == 'M') {
+            this.gender = 'M';
         } else {
-            this.genre = 'M';
+            this.gender = 'M';
         }
     }
 
@@ -165,8 +165,8 @@ public class Person {
         this.age = age;
     }
 
-    public void setGenre(Character genre) {
-        this.checkGenre(genre);
+    public void setGender(Character gender) {
+        this.checkGender(gender);
     }
 
     public void setWeight(double weight) {
@@ -189,8 +189,8 @@ public class Person {
         return DNI;
     }
 
-    public Character getGenre() {
-        return genre;
+    public Character getGender() {
+        return gender;
     }
 
     public double getWeight() {
@@ -207,7 +207,7 @@ public class Person {
                 "name='" + name + '\'' +
                 ", age=" + age +
                 ", DNI='" + DNI + '\'' +
-                ", genre=" + genre +
+                ", gender=" + gender +
                 ", weight=" + weight +
                 ", height=" + height +
                 '}';
